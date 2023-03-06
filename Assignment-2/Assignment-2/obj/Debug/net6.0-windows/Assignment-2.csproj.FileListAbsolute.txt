@@ -1,0 +1,17 @@
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\bin\Debug\net6.0-windows\Assignment-2.exe
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\bin\Debug\net6.0-windows\Assignment-2.deps.json
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\bin\Debug\net6.0-windows\Assignment-2.runtimeconfig.json
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\bin\Debug\net6.0-windows\Assignment-2.dll
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\bin\Debug\net6.0-windows\Assignment-2.pdb
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.csproj.AssemblyReference.cache
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment_2.Form1.resources
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.csproj.GenerateResource.cache
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.AssemblyInfoInputs.cache
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.AssemblyInfo.cs
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.csproj.CoreCompileInputs.cache
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.dll
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\refint\Assignment-2.dll
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.pdb
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\Assignment-2.genruntimeconfig.cache
+C:\Users\kingb\OneDrive\Desktop\CSharpClass\Assignment1\Assignment-2\Assignment-2\obj\Debug\net6.0-windows\ref\Assignment-2.dll
